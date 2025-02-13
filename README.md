@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="250" src="https://scontent.fcai22-2.fna.fbcdn.net/v/t39.30808-6/332806316_2010482949294608_2867097883985919025_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeG0QL_l-vnFhyqQHpwzffL_rLMnpsZt8H-ssyemxm3wf3BWOboxFwLBimxdmkKvT5ZnHIpoMx6_fI80ulnAqzzc&_nc_ohc=YL3RaIgSCQ4Q7kNvgFJuZYk&_nc_oc=AdjYiPP8NBX92Kk4jp5Rt_4T74SSvqlD1xPqvIVMuSe7bjP_gXMDMgeoBRL6OXkNCus&_nc_zt=23&_nc_ht=scontent.fcai22-2.fna&_nc_gid=A_4JFo6xkmZY9bRcVPTYxJM&oh=00_AYAX6lDw1UEpPxr9RRmjBruR55pUY3uSb9XO-50wTJhd4g&oe=67B2DCE0"  />
+<img align="right" height="200" src="https://avatars.githubusercontent.com/u/132882166?v=4"  />
 
 ###
 

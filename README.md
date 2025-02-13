@@ -89,3 +89,7 @@
 <img src="https://raw.githubusercontent.com/AbdulrahmanAhmedZaghloul/AbdulrahmanAhmedZaghloul/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<p align="left">Hello, I'm Abdulrahman Zaghloul , a front-end web developer with over <br>[one of years] of experience in designing and developing responsive interactive websites and web applications. I have strong expertise in creating dynamic and user-friendly web applications using HTML, CSS, and JavaScript, with a focus on modern frameworks like React and Next.js.<br>I have also worked on several independent projects.<br><br>Key Skills and Tools:<br><br>Front-End Development: HTML, HTML5, CSS, CSS3, Bootstrap, Tailwind CSS, MDB, JavaScript, ECMAScript (ES6), PWA, Babel.js<br>JavaScript Frameworks: jQuery, jQuery UI, React.js, Next.js, Material-UI (React.js), UseContext,, Redux.js, Redux Toolkit<br>Development Tools: plugin.js, Gulp.js, AJAX, Sass<br>Version Control: Git, GitHub,</p>
+
+###
